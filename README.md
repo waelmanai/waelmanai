@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a frontend end developer at @Prodexo.net.
 - ⚡ In my free time I work as a freelance.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Wael-Manai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wael-manai)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Wael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wael-manai)
 
 ---
 
