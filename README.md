@@ -12,8 +12,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
-- 🔭 I’m working as a frontend end developer at @Prodexo.net.
-- ⚡ In my free time I work as a freelance.
+- 🔭 I’m working as Freelance Web Developer.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Wael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wael-manai)
 
 ---
