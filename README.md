@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rackham**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Hono**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
